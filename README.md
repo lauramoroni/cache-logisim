@@ -9,8 +9,8 @@ O projeto é composto por um circuito que simula uma cache básica, composta pel
 - *Testbench:* Fornece uma sequência de acessos a memória, que devem ser inicializadas respectivamente com os arquivo `data.mem`, `address.mem` e `we.mem`.
 
 ## Funcionalidades
-- Simulalçao de acertos e falhas
-- Implementação de mapeamento conjunto associativo _4-way_
+- Simulação de acertos e falhas
+- Implementação de um mapeamento direto de 4 linhas
 
 ## Carregando memória de instruções
 Para testar seu processador, os seguintes arquivos são fornecidos:
